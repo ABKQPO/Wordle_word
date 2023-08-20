@@ -1,0 +1,2 @@
+# Wordle_word单词词典
+从nonebot_plugin_wordle获取，欢迎各位进行补充
